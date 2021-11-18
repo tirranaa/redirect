@@ -1,1 +1,1 @@
-da
+web: npm start --app
