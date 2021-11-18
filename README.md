@@ -1,6 +1,6 @@
 ## Simple redirect application
 ### That will work in node.js environment, and in scriptless static environment too.
-#### it could be used when your node site is down due to development and you wanna redirect it to the static one, or as a regular redirect when it is in simple functionless root host site.
+#### it could be used when your node.js site is down, due to development, and you wanna redirect it's root to the static one, or as a regular redirect, when it is in simple functionless root host site as a simple index.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
