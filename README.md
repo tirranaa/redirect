@@ -4,6 +4,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/tirranaa" target="blank"><img align="center" src="https://github.com/tirranaa/tirranaa.github.io/blob/main/images/FacebookProfile.gif" alt="tirranaa" height="70" width="300" /></a>
+<a href="https://fb.com/tirranaa" target="blank"><img align="center" src="https://tirranaa.github.io/t/images/FacebookProfile.gif" alt="tirranaa" height="70" width="300" /></a>
 <a href="https://www.youtube.com/channel/UCdhWA8nAebq3mKQsS4tYbBw?sub_confirmation=1" target="blank"><img align="center" src="https://github.com/tirranaa/tirranaa.github.io/blob/main/images/IvayloYordanov.gif" alt="ivailoyordanov" height="70" width="300" /></a>
 </p>
